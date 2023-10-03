@@ -12,7 +12,7 @@ toniNote is a React-based web application that allows users to create and manage
 
 To get started with toniNote, simply follow these steps:
 
-1. Clone the repository: `git clone https://github.com/totonito3/note-app.git`
+1. Clone the repository: `git clone https://github.com/totonito3/toniNote.git`
 2. Install the dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Open http://localhost:3000 in your browser to view the app
